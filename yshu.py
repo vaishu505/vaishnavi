@@ -16,7 +16,7 @@ def print_person_details(name,address,email,phone):
     print(f"name:{name}")
     print(f"address:{address}")
     print(f"email:{email}")
-    print(f"phopne number:{phone}")
+    print(f"phone number:{phone}")
 
 #get details from the user
 name,address,email,phone=get_person_details()
